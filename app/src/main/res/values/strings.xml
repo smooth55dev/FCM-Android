@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FCM Android</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="notification_channel_name">FCM Notifications</string>
+    <string name="notification_channel_description">Firebase Cloud Messaging notifications</string>
+    <string name="fcm_token_label">FCM Token:</string>
+    <string name="copy_token">Copy Token</string>
+    <string name="token_copied">Token copied to clipboard!</string>
+    <string name="notification_received">Notification received!</string>
+    <string name="notification_title">FCM Notification</string>
+    <string name="notification_body">You have received a new message</string>
+</resources>

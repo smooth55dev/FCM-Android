@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fcm_plugin_name">FCM Plugin</string>
+    <string name="notification_channel_name">FCM Notifications</string>
+    <string name="notification_channel_description">Notifications from FCM Plugin</string>
+</resources>
